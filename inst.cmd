@@ -1,0 +1,4 @@
+::C:\Users\sysuev.va\AppData\Roaming\Python\Python312\Scripts\pyinstaller.exe --noconsole --onefile "C:\Users\sysuev.va\Documents\my\USB_enable_disable\USB_enable_disable.py"
+::C:\Users\sysuev.va\AppData\Roaming\Python\Python312\Scripts\pyinstaller.exe --onefile "C:\Users\sysuev.va\Documents\my\USB_enable_disable\USB_enable_disable.py"
+::C:\Users\sysuev.va\AppData\Roaming\Python\Python312\Scripts\pyinstaller.exe --onefile --copy-metadata readchar "C:\Users\sysuev.va\Documents\my\USB_enable_disable\USB_enable_disable.py"
+C:\Users\sysuev.va\AppData\Roaming\Python\Python312\Scripts\pyinstaller.exe --onefile %~dp0find_in_pdf2.py
